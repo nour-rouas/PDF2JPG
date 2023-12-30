@@ -12,4 +12,4 @@ Before running the script, ensure that you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-to-jpg-converter.git
+   git clone https://github.com/nour-rouas/PDF2JPG.git
